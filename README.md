@@ -21,7 +21,7 @@ I'm a passionate Full Stack DevOps Software Engineer based in the Netherlands. F
 - 📷 Instagram: [@manvankaliber](https://www.instagram.com/manvankaliber)
 - 👻 Snapchat: [@manvankaliber](https://www.snapchat.com/add/manvankaliber)
 - ✉️ Telegram: [@manvankaliber](https://t.me/manvankaliber)
-- 🎥 YouTube: [manvankaliber](https://www.youtube.com/c/manvankaliber)
+- 🎥 YouTube: [manvankaliber](https://www.youtube.com/@manvankaliber)
 - 📰 Reddit: [u/manvankaliber](https://www.reddit.com/user/manvankaliber)
 
 Feel free to explore my repositories and check out some of my projects. If you find something interesting or have any questions, don't hesitate to reach out!
