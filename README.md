@@ -1,7 +1,11 @@
 # Hello, I'm Jack van der Bilt 👋
 
-![BASED](https://img.shields.io/badge/Based-all%20day%20every%20day)
-![Netherlands Flag](https://img.shields.io/badge/From-The%20Netherlands-RED)
+![BASED](https://img.shields.io/badge/BASED-all%20day%20every%20day)
+![Netherlands Flag](https://img.shields.io/badge/FROM-THE%20NETHERLANDS-RED)
+![AGE 23](https://img.shields.io/badge/AGE-23-RED)
+![SEX APPEAL](https://img.shields.io/badge/SEX%20APPEAL-2483-RED)
+![STREET CRED](https://img.shields.io/badge/STREET%20CRED-1482-RED)
+![HOURLY RATE](https://img.shields.io/badge/HOURLY%20RATE-$100-RED)
 
 I'm a passionate Full Stack DevOps Software Engineer based in the Netherlands. For the longest time developing software has been my passion, to automate my goal, and to build robust software solutions my biggest dream. Now, with a keen eye for detail and a passion for problem-solving, I'm dedicated to creating high-quality software that delivers real value.
 
